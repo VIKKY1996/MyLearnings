@@ -1,0 +1,14 @@
+C:\MyLearnings\bin\Debug\net8.0\MyLearnings.exe
+C:\MyLearnings\bin\Debug\net8.0\MyLearnings.deps.json
+C:\MyLearnings\bin\Debug\net8.0\MyLearnings.runtimeconfig.json
+C:\MyLearnings\bin\Debug\net8.0\MyLearnings.dll
+C:\MyLearnings\bin\Debug\net8.0\MyLearnings.pdb
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.AssemblyInfoInputs.cache
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.AssemblyInfo.cs
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.csproj.CoreCompileInputs.cache
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.dll
+C:\MyLearnings\obj\Debug\net8.0\refint\MyLearnings.dll
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.pdb
+C:\MyLearnings\obj\Debug\net8.0\MyLearnings.genruntimeconfig.cache
+C:\MyLearnings\obj\Debug\net8.0\ref\MyLearnings.dll
